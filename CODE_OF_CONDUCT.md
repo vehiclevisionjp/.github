@@ -49,7 +49,7 @@ vehiclevisionjp 組織の各リポジトリ の行動規範です。
 虐待的、ハラスメント的、その他の許容されない行動は、次の連絡先で、コミュニティのリーダーに
 報告できます。
 
-**<group.development+gh.pt.org@vehiclevision.jp>**
+**<group.development+gh.org@vehiclevision.jp>**
 
 すべての報告は、速やかに公正に確認・調査されます。
 コミュニティのリーダーは、事件の報告者のプライバシーとセキュリティを尊重する義務があります。

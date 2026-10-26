@@ -9,7 +9,7 @@ vehiclevisionjp 組織の各リポジトリ の脆弱性の報告方法です。
 
 1. **GitHub の非公開の脆弱性報告（推奨）**:
    リポジトリの「Security」タブから「Report a vulnerability」を選びます。
-2. **メール**: <group.development+gh.pt.org@vehiclevision.jp>
+2. **メール**: <group.development+gh.org@vehiclevision.jp>
    件名にリポジトリ名（vehiclevisionjp 組織の各リポジトリ）を入れてください。
 
 報告には、次の情報があると調査が早く進みます。
